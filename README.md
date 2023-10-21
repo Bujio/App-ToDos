@@ -1,6 +1,6 @@
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
-Link GitHub Pages:[My App ToDOs] (https://bujio.github.io/App-ToDos/)
+Link GitHub Pages:[My App ToDOs](https://bujio.github.io/App-ToDos/)
 
 ¡Hola!
 
