@@ -3,12 +3,12 @@
 ¡Hola!
 
 En este repositorio encontrarás una versión personal de la App que se trabaja en el [Curso de Introducción a React.js](https://platzi.com/reactjs), que consiste en trabajar con:
--LocalStore
--React Context
--React Portals
--React Hooks (useState,useEffect, useContext)
--Props
--Vite
+- LocalStore
+- React Context
+- React Portals
+- React Hooks (useState,useEffect, useContext)
+- Props
+- Vite
 
 Además deberás instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 
