@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/App-ToDos/static/css/main.bc35d89f.css",
-    "main.js": "/App-ToDos/static/js/main.6b658803.js",
+    "main.css": "/App-ToDos/static/css/main.11490e87.css",
+    "main.js": "/App-ToDos/static/js/main.a94ae372.js",
     "static/media/lapiz.png": "/App-ToDos/static/media/lapiz.037e706bff881ce84891.png",
     "index.html": "/App-ToDos/index.html",
-    "main.bc35d89f.css.map": "/App-ToDos/static/css/main.bc35d89f.css.map",
-    "main.6b658803.js.map": "/App-ToDos/static/js/main.6b658803.js.map"
+    "main.11490e87.css.map": "/App-ToDos/static/css/main.11490e87.css.map",
+    "main.a94ae372.js.map": "/App-ToDos/static/js/main.a94ae372.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc35d89f.css",
-    "static/js/main.6b658803.js"
+    "static/css/main.11490e87.css",
+    "static/js/main.a94ae372.js"
   ]
 }
