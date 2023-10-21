@@ -1,5 +1,7 @@
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
+Link GitHub Pages:[My App ToDOs] (https://bujio.github.io/App-ToDos/)
+
 ¡Hola!
 
 En este repositorio encontrarás una versión personal de la App que se trabaja en el [Curso de Introducción a React.js](https://platzi.com/reactjs), que consiste en trabajar con:
@@ -11,7 +13,8 @@ En este repositorio encontrarás una versión personal de la App que se trabaja 
 - Vite
 
 Además deberás instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
-Link GitHub Pages:[My App ToDOs] (https://bujio.github.io/App-ToDos/)
+
+
 ¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
 
 ## Getting Started with Create React App
