@@ -6,6 +6,7 @@ const TodoSearch = () => {
 
   const handleChange = (event) => {
     setSearchValue(event.target.value);
+    searchValue("");
   };
   return (
     <>
