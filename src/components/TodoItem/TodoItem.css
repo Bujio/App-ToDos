@@ -7,7 +7,7 @@
     color:cadetblue;
     margin-top: 10px;
     padding: 5px 20px;
-    width: 400px;
+    width: 800px;
     text-align: center;
     display: flex;
     align-items: center;
@@ -30,5 +30,22 @@
   .Icon-check--active {
     color: #4caf50;
   }
+
+  @media (max-width: 800px) {
+    .item {
+      border-radius: 9px;
+      padding: 5px 10px;
+      width: 300px;
+      margin-right: 45px;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;  
+  }
+  p{
+    font-size: 12px;
+  }
+}
   
  

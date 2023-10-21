@@ -14,7 +14,7 @@ const TodoCounter = () => {
             <span>
               {}
               {completedTodos === totalTodos && totalTodos !== 0 ? (
-                <h2>"¡HAS TERMINADO TODAS LAS TAREAS!"</h2>
+                <h2>¡HAS TERMINADO TODAS LAS TAREAS!</h2>
               ) : (
                 ""
               )}
