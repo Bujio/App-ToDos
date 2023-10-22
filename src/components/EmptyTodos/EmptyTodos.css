@@ -1,9 +1,22 @@
-p{
-    font-size:24px;
-    text-align:center;
-    margin:0px;
-    padding:12px;
+.empty-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Agrega esta línea para centrar horizontalmente */
+    text-align: center; /* Alinea el texto al centro */
+  }
+  
+  .img-empty {
+    max-width: 100px; /* Ajusta el ancho máximo de la imagen según tus necesidades */
+    height: auto; /* Mantén la proporción original de la imagen */
+  }
+  
+  .p-empty {
+    font-size: 24px;
+    margin: 0;
+    padding: 12px;
     color: #ff6392;
     font-family: monospace;
-
-}
+    margin-top: 10px; /* Agrega margen superior según tus necesidades */
+  }
+  

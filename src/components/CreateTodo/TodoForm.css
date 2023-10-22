@@ -69,3 +69,38 @@ textarea:focus {
   .TodoForm-button--cancel {
     background: transparent;
   }
+
+@media(max-width: 800px){
+  form {
+    width: 100vh;
+    height: 100vh;
+    }
+    
+  label {
+    font-size: 16px;
+    }
+    
+  textarea {
+    font-size: 14px;
+    width: 300px;
+      
+    }
+}
+
+
+@media(max-width: 1024px){
+  form {
+    width: 100vh;
+    height: 100vh;
+    }
+    
+  label {
+    font-size: 16px;
+    }
+    
+  textarea {
+    font-size: 14px;
+    width: 500px;
+      
+    }
+}

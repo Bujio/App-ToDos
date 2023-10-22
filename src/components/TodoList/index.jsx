@@ -1,7 +1,7 @@
 import "./TodoList.css";
 const TodoList = ({ children }) => {
   return (
-    <div className="body">
+    <div className="body-list">
       <ul>{children}</ul>
     </div>
   );
