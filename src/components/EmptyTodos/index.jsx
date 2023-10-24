@@ -4,7 +4,7 @@ const EmptyTodos = () => {
   return (
     <div className="empty-flex">
       <img className="img-empty" src={lapiz} alt="img-lapiz" />
-      <p className="p-empty">No existen tareas. Crea tu primera tarea.</p>
+      <p className="p-empty">No existen tareas </p>
     </div>
   );
 };

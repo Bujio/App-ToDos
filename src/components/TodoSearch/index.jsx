@@ -1,5 +1,7 @@
-import { useContext, useEffect } from "react";
-import { TodoContext } from "../context/TodoContext";
+import { useContext } from "react";
+import { TodoContext } from "../../context/TodoContext";
+import "./TodoSearch.css";
+import EmptyTodos from "../EmptyTodos";
 
 const TodoSearch = () => {
   const { searchValue, setSearchValue, totalTodos } = useContext(TodoContext);
@@ -12,13 +14,13 @@ const TodoSearch = () => {
     <>
       {totalTodos !== 0 ? (
         <input
-          type="text"
           placeholder="buscar tarea..."
+          className="TodoSearch"
           value={searchValue}
           onChange={handleChange}
         />
       ) : (
-        ""
+       ""
       )}
     </>
   );
